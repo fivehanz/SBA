@@ -1,0 +1,4 @@
+
+default:
+	jupyter lab
+
